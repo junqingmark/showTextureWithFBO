@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -Wall -O2   CMakeFiles/imageReader.dir/src/imageReader.cpp.o CMakeFiles/imageReader.dir/src/main.cpp.o  -o imageReader -rdynamic -lEGL -lGLESv2 -lX11 -lpng12 -ljpeg 
